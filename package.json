@@ -23,6 +23,7 @@
 	"dependencies": {
 		"@astrojs/check": "^0.9.4",
 		"@astrojs/vue": "^4.5.2",
+		"@mdi/font": "^7.4.47",
 		"@vueuse/core": "^11.2.0",
 		"typescript": "^5.6.3",
 		"vue": "^3.5.13",

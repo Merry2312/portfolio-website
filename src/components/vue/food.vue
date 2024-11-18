@@ -8,6 +8,7 @@
     <v-btn>
       Button
     </v-btn>
+    <v-icon icon="mdi-plus"></v-icon>
   </div>
 </template>
 
