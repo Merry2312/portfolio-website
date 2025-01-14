@@ -3,14 +3,33 @@
 		"dates": "March 2024 - Present",
 		"role": "Junior Engineer",
 		"company": "VASTech",
-		"description": "Write code",
+		"description": "Contribute to a full-stack telecommunication system. The application utilizes a Vue.js and Typescript front end, and both Java and Golang microservices for the back end.",
+		"subDescription": "Java | Golang | GRPC | Vue.js | Typescript",
 		"logo": "/assets/images/experiences/vt.png"
 	},
 	{
 		"dates": "January 2023 - February 2024",
 		"role": "Graduate Junior Engineer",
 		"company": "VASTech",
-		"description": "Write grad code.",
+		"description": "Contribute to a full-stack telecommunication system. The application utilizes a Vue.js and Typescript front end, and both Java and Golang microservices for the back end.",
+		"subDescription": "Java | Golang | GRPC | Vue.js | Typescript",
 		"logo": "/assets/images/experiences/vt.png"
+	},
+	{
+		"dates": "January 2022 - February 2022",
+		"role": "Intern",
+		"company": "alis_",
+		"description": "Developed systems in Golang to empower investment managers to focus on their investments, free from concerns about underlying architecture and software.",
+		"subDescription": "Golang | GRPC",
+		"logo": "/assets/images/experiences/alis.jpg"
+	},
+	{
+		"dates": "August 2019 - October 2019",
+		"role": "Intern",
+		"company": "Techairos Consulting",
+		"description": "Consulted with a client and worked on a trading algorithm for a specific commodity.",
+		"subDescription": "C++",
+		"logo": "/assets/images/experiences/techairos.jpeg"
+
 	}
 ]

@@ -13,7 +13,7 @@ import Layout from "../layouts/main.astro";
       description="I am passionate about technology, people and formula 1!"
     />
 
-    <img src="/assets/images/about.jpg" class="relative z-30 w-full my-10 rounded-xl" />
+    <!-- <img src="/assets/images/cheetah.JPG" class="relative z-30 w-full my-10 rounded-xl" /> -->
 
     <h2 class="mb-2 text-2xl font-bold dark:text-neutral-200">Short Bio</h2>
     <p
@@ -22,54 +22,7 @@ import Layout from "../layouts/main.astro";
       Front-end cutter 🧑🏻‍💻, back-end amateur 🤷🏻‍♂️, operations digging holes person 🤦🏻‍♂️.
     </p>
 
-    <h2
-      class="mt-5 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200"
-    >
-      Experience
-    </h2>
-    <div class="px-5 py-10">
-      {
-        experiences.map((experience) => {
-          return (
-            <div class="pb-10 border-l border-gray-200 last:border-l-0 dark:border-neutral-700">
-              <AboutExperience
-                dates={experience.dates}
-                role={experience.role}
-                company={experience.company}
-                description={experience.description}
-                logo={experience.logo}
-              />
-            </div>
-          )
-        })
-      }
-    </div>
-
-    <h2
-      class="mt-5 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200"
-    >
-      Education
-    </h2>
-    <div class="px-5 py-10">
-      {
-        education.map((e) => {
-          return (
-            <div class="pb-10 border-l border-gray-200 last:border-l-0 dark:border-neutral-700">
-              <AboutExperience
-                dates={e.dates}
-                role={e.degree}
-                company={e.insitute}
-                description={e.description}
-                subDescription={e.subjects}
-                logo={e.logo}
-              />
-            </div>
-          )
-        })
-      }
-    </div>
-
-    <h2 class="mt-5 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200">Let's Connect</h2>
+    <!-- <h2 class="mt-5 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200">Let's Connect</h2>
     <p
       class="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
     >
@@ -80,6 +33,6 @@ import Layout from "../layouts/main.astro";
       >, or you can send me an <a href="mailto:astro-aria#miantiao.me" class="text-indigo-600 underline"
         >email</a
       > and I'll be sure to get back to you.
-    </p>
+    </p> -->
   </section>
 </Layout>
