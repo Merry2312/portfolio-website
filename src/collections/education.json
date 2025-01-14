@@ -1,0 +1,34 @@
+[
+	{
+		"dates": "2022",
+		"insitute": "Stellenbosch University",
+		"degree": "BSc: Computer Science Honours (Cum Laude)",
+		"description": "My honours project was to create a suite of accessible mobile games for the visually impaired. I achieved this by utilising a screen reader and simple screen gestures. The suite of mobile games included Snakes and Ladders, Battleships, Cluedo, Mastermind and a Tamagotchi.",
+		"subjects": "Advanced Algorithms |Software Construction | Software Verification and Analysis | Computer Vision | Computing and Society | Princicples of Data Science.",
+		"logo": "/assets/images/experiences/vt.png"
+	},
+	{
+		"dates": "2019-2021",
+		"insitute": "Stellenbosch University",
+		"degree": "BSc: Computer Science",
+		"description": "Double major in Computer Science and Operations Research, with a minor in Applied Maths.",
+		"subjects": "Computer Science: Software Engineering, Concurrency, Networks, Web Development | Operations Research: Decision modelling, Network Optimisation, Nonlinear Optimisation, Linear Programming | Applied Maths: Numerical Methods, Flow Modelling.",
+		"logo": "/assets/images/Stellenbosch_University_New_Logo.jpg"
+	},
+	{
+		"dates": "2017-2018",
+		"insitute": "Stellenbosch University",
+		"degree": "BSc: Chemical Biology (Incomplete, change of career direction)",
+		"description": "",
+		"subjects": "",
+		"logo": "/assets/images/experiences/vt.png"
+	},
+	{
+		"dates": "2016",
+		"insitute": "Grey High School",
+		"degree": "Matric",
+		"description": "Matriculated with 5 Distinctions",
+		"subjects": "Physical Science | Biology | Music | Mathematics | Engligh HL | Afrikaans FAL | Life Orientation",
+		"logo": "/assets/images/experiences/vt.png"
+	}
+]
