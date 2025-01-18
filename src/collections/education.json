@@ -3,32 +3,32 @@
 		"dates": "2022",
 		"insitute": "Stellenbosch University",
 		"degree": "BSc: Computer Science Honours (Cum Laude)",
-		"description": "My honours project was to create a suite of accessible mobile games for the visually impaired. I achieved this by utilising a screen reader and simple screen gestures. The suite of mobile games included Snakes and Ladders, Battleships, Cluedo, Mastermind and a Tamagotchi.",
-		"subDescription": "Advanced Algorithms | Software Construction | Software Verification and Analysis | Computer Vision | Computing and Society | Princicples of Data Science.",
-		"logo": "/assets/images/education/su-logo.jpg"
+		"description": "My honours project was to create a suite of accessible mobile games for the visually impaired. I achieved this by utilising a screen reader and simple screen gestures. The suite of mobile games included Snakes and Ladders, Battleships, Cluedo, Mastermind and a Tamagotchi. These mobile games were built for Android smart phones using the Flutter framework and Dart programming language.",
+		"subDescriptions": ["Advanced Algorithms | Software Construction | Software Verification and Analysis | Computer Vision | Computing and Society | Princicples of Data Science."],
+		"logo": "/assets/images/education/su-nobg-removebg.png"
 	},
 	{
 		"dates": "2019-2021",
 		"insitute": "Stellenbosch University",
 		"degree": "BSc: Computer Science",
 		"description": "Double major in Computer Science and Operations Research, with a minor in Applied Maths.",
-		"subDescription": "Computer Science: Software Engineering, Concurrency, Networks, Web Development | Operations Research: Decision modelling, Network Optimisation, Nonlinear Optimisation, Linear Programming | Applied Maths: Numerical Methods, Flow Modelling.",
-		"logo": "/assets/images/education/su-logo.jpg"
+		"subDescriptions": ["Computer Science: Software Engineering, Concurrency, Networks, Web Development", "Operations Research: Decision modelling, Network Optimisation, Nonlinear Optimisation, Linear Programming", "Applied Maths: Numerical Methods, Flow Modelling"],
+		"logo": "/assets/images/education/su-nobg-removebg.png"
 	},
 	{
 		"dates": "2017-2018",
 		"insitute": "Stellenbosch University",
 		"degree": "BSc: Chemical Biology",
 		"description": "(Incomplete, change of career direction)",
-		"subDescription": "Chemistry | Biology | Mathematics | Physics",
-		"logo": "/assets/images/education/su-logo.jpg"
+		"subDescriptions": ["Chemistry | Biology | Mathematics | Physics"],
+		"logo": "/assets/images/education/su-nobg-removebg.png"
 	},
 	{
 		"dates": "2016",
 		"insitute": "Grey High School",
 		"degree": "Matric",
 		"description": "Matriculated with 5 Distinctions",
-		"subDescription": "Physical Science | Biology | Music | Mathematics | Engligh HL | Afrikaans FAL | Life Orientation",
-		"logo": "/assets/images/education/grey-logo.png"
+		"subDescriptions": ["Physical Science | Biology | Music | Mathematics | Engligh HL | Afrikaans FAL | Life Orientation"],
+		"logo": "/assets/images/education/grey-nobg.png"
 	}
 ]

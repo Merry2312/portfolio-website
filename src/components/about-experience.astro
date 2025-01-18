@@ -1,5 +1,6 @@
 ---
-const { logo, dates, role, company, description, subDescription } = Astro.props;
+const { logo, dates, role, company, description, subDescriptions } =
+  Astro.props;
 ---
 
 <div class="relative flex flex-col justify-start pl-12">
@@ -19,7 +20,15 @@ const { logo, dates, role, company, description, subDescription } = Astro.props;
   <p class="mb-1 text-sm font-light text-neutral-600 dark:text-neutral-400">
     {description}
   </p>
-  <p class="text-xs font-light text-neutral-600 dark:text-neutral-400">
-    {subDescription}
-  </p>
+  <div class="ms-2">
+    {
+      subDescriptions.map((s: string) => {
+        return (
+          <p class="mb-1 text-xs font-light text-neutral-600 dark:text-neutral-400">
+            {s}
+          </p>
+        );
+      })
+    }
+  </div>
 </div>
