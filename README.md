@@ -1,13 +1,13 @@
-# Aria Template
+# Nicholas Merrington resume website
 
-This is a personal blog, portfolio, or blog template created for [Astro](https://astro.build).
+This is my resume created using the [Astro](https://astro.build) framework.
 
-Astro port of [aria](https://github.com/static-templates/aria).
+This project was based on the follwoing [template](https://github.com/static-templates/aria).
 
-![Aria Template Cover Photo](https://github.com/ccbikai/astro-aria/blob/main/public/assets/images/cover.png?raw=true)
+To run the project locally:
 
-You can install this theme with the [Astro](https://astro.build) command like so:
-
-```js
-npm create astro@latest -- --template ccbikai/astro-aria
 ```
+pnpm run dev
+```
+
+The website is hosted by Netlify. A new deployment is made whenever code is pushed to the master branch. The deployed website can be found at https://nicholas-merrington.netlify.app/
