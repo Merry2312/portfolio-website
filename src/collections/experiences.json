@@ -1,18 +1,18 @@
 [
 	{
-		"dates": "March 2024 - Present",
-		"role": "Junior Engineer",
+		"dates": "May 2025 - Present",
+		"role": "Junior Engineer | DAQ team",
 		"company": "VASTech",
-		"description": "Develop end-to-end features in a full-stack telecommunication system. This includes gathering requirements, API design, and implementation across back-end and front-end architectures.",
-		"subDescriptions": ["Java | Golang | GRPC | Vue.js | Typescript"],
+		"description": "Delivered high-performance data services in an air-gapped environment, building and maintaining Java-based applications and libraries consumed across the company via gRPC APIs. Designed and optimised the performance of complex queries for Vertica and Elasticsearch. Developed indexers to efficiently write and structure data in Elasticsearch, ensuring fast and accurate data retrieval for downstream services. Collaborated with data capture and front-end teams to deliver solutions aligned with consumer needs.",
+		"subDescriptions": ["Java | Python | gRPC | Vertica | Elasticsearch | Docker"],
 		"logo": "/assets/images/experiences/vt.png"
 	},
 	{
-		"dates": "January 2023 - February 2024",
-		"role": "Graduate Junior Engineer",
+		"dates": "March 2024 - Present",
+		"role": "Junior Engineer | Phoenix team",
 		"company": "VASTech",
-		"description": "Contributed to the development of a full-stack telecommunication system. The application utilizes a Vue.js and Typescript front end, and both Java and Golang microservices for the back end.",
-		"subDescriptions": ["Java | Golang | GRPC | Vue.js | Typescript"],
+		"description": "Contributed to the development of a full-stack telecommunications platform, featuring a Vue.js and TypeScript front end, Java gateway, and a combination of Java and Golang microservices for the back end. Created APIs using gRPC. Authored architectural design records and collaborated with UI/UX designers to produce intuitive, user-friendly interfaces. Developed end-to-end features from concept to deployment, ensuring alignment with business requirements and technical best practices. Promoted from graduate software engineer to junior software engineer.",
+		"subDescriptions": ["Java | Golang | gRPC | Vue.js | Typescript | PostgreSQL | Docker | Nomad"],
 		"logo": "/assets/images/experiences/vt.png"
 	},
 	{
@@ -20,7 +20,7 @@
 		"role": "Intern",
 		"company": "alis_",
 		"description": "Developed systems in Golang to simplify operations for investment managers.",
-		"subDescriptions": ["Golang | GRPC"],
+		"subDescriptions": ["Golang | gRPC"],
 		"logo": "/assets/images/experiences/alis-removebg.png"
 	},
 	{
